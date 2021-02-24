@@ -1,0 +1,56 @@
+#Contact a{
+   color: black;
+}
+
+#Contact a:hover{
+   color: blue;
+   text-decoration: underline;
+}
+
+.link{
+    color: black;
+}
+
+.link:hover{
+    color: blue;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+#Home marquee{
+    padding-top: 20px;
+    margin-top: 30px;
+    text-decoration: bold;
+}
+
+.main-campus{
+    height:350px;
+    width: 400px;
+    border: 1px solid black;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    padding: 20px;
+}
+
+.movie-head{
+    font-size: 20px;
+    border-radius: 10px;
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 6px 22px;
+    display: inline-block;
+    text-align: center;
+}
+
+.movie-head i{
+    float: right;
+}
+
+.movie-head i:hover{
+    couzer:pointer
+}
+
+#AE{
+    background-color: azure;
+}
