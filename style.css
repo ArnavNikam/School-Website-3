@@ -54,3 +54,17 @@
 #AE{
     background-color: azure;
 }
+
+.row::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.travel-main-div{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid black;
+    box-shadow: 2px;
+}
